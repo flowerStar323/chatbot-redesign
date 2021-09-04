@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#20bb65"/>
+      <stop offset="1" stop-color="#007133"/>
+    </linearGradient>
+  </defs>
+  <g id="green-chat-close-icon" transform="translate(9782 7435)">
+    <path id="Rectangle_536" data-name="Rectangle 536" d="M19,0H40A19,19,0,0,1,59,19V40A19,19,0,0,1,40,59H0a0,0,0,0,1,0,0V19A19,19,0,0,1,19,0Z" transform="translate(-9782 -7435)" fill="url(#linear-gradient)"/>
+    <g id="Group_1922" data-name="Group 1922" transform="translate(-9769.675 -7422)">
+      <path id="Path_5382" data-name="Path 5382" d="M17.281,0A16.5,16.5,0,0,0,.781,16.5,16.712,16.712,0,0,0,3,24.762c.63,1.137-3,8.959-3,8.959S7.28,29.7,8.465,30.475A16.51,16.51,0,1,0,17.281,0Z" transform="translate(-0.325)" fill="#fff"/>
+      <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M18.493,17.114l4.162-4.162a.975.975,0,0,0-1.379-1.379l-4.162,4.162-4.162-4.162a.975.975,0,1,0-1.379,1.379l4.162,4.162-4.162,4.162a.975.975,0,0,0,1.379,1.379l4.162-4.162,4.162,4.162a.975.975,0,0,0,1.379-1.379Z" transform="translate(-0.61 -0.289)" fill="#20bb65"/>
+    </g>
+  </g>
+</svg>

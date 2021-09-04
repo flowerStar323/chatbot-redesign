@@ -1,0 +1,6 @@
+<svg id="Scheduled-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="calendar-check-line" transform="translate(0 0)">
+    <path id="Path_174" data-name="Path 174" d="M0,0H25V25H0Z" fill="none"/>
+    <path id="Path_175" data-name="Path 175" d="M8.178,1V3.85h7.2V1h1.267V3.85h3.2a1,1,0,0,1,.972,1.034V20.018a1,1,0,0,1-.972,1.034H3.574A1,1,0,0,1,2.6,20.018V4.884A1,1,0,0,1,3.574,3.85H6.93V1ZM19.56,9.626H4.015V19.61H19.56Zm-4.182,1.738.732.8L11.3,17.283,7.866,13.627l.709-.822L11.3,15.84l4.078-4.475ZM6.93,5.135H4.015v3.1H19.56v-3.1H16.645V6.169H15.378V5.135h-7.2V6.169H6.93Z" transform="translate(0.686 0.292)" fill="#bac2c7"/>
+  </g>
+</svg>

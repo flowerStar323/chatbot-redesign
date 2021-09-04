@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="tick_box" data-name="tick box" transform="translate(-506 -534)">
+    <g id="Rectangle_490" data-name="Rectangle 490" transform="translate(506 534)" fill="none" stroke="#f50057" stroke-width="1">
+      <rect width="14" height="14" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="13" rx="1.5" fill="none"/>
+    </g>
+    <g id="noun_true_1688470_1_" data-name="noun_true_1688470 (1)" transform="translate(483.448 506.049)">
+      <path id="Path_589" data-name="Path 589" d="M32.974,33.218l-4.133,4.143a.413.413,0,0,1-.575,0l-2.6-2.6a.409.409,0,0,1,0-.575l.583-.587a.417.417,0,0,1,.572,0l1.723,1.732,3.269-3.27a.417.417,0,0,1,.572,0l.587.59A.4.4,0,0,1,32.974,33.218Z" fill="#f50057"/>
+    </g>
+  </g>
+</svg>

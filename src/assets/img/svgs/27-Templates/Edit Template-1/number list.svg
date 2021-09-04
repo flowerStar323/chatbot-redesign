@@ -1,0 +1,8 @@
+<svg id="number_list" data-name="number list" xmlns="http://www.w3.org/2000/svg" width="8.576" height="11" viewBox="0 0 8.576 11">
+  <path id="Path_255" data-name="Path 255" d="M38.962,73.483h5.373a.263.263,0,0,0,.262-.262v-.459a.263.263,0,0,0-.262-.262H38.962a.263.263,0,0,0-.262.262v.459A.263.263,0,0,0,38.962,73.483Z" transform="translate(-36.02 -64.416)" fill="#8f9bb9"/>
+  <path id="Path_256" data-name="Path 256" d="M38.962,47.183h5.373a.263.263,0,0,0,.262-.262v-.459a.263.263,0,0,0-.262-.262H38.962a.263.263,0,0,0-.262.262v.459a.263.263,0,0,0,.262.262Z" transform="translate(-36.02 -41.563)" fill="#8f9bb9"/>
+  <path id="Path_257" data-name="Path 257" d="M38.962,20.983h5.373a.263.263,0,0,0,.262-.262v-.459A.263.263,0,0,0,44.335,20H38.962a.263.263,0,0,0-.262.262v.459a.263.263,0,0,0,.262.262Z" transform="translate(-36.02 -18.796)" fill="#8f9bb9"/>
+  <text id="_1" data-name="1" transform="translate(0 3)" fill="#8f9bb9" font-size="3" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+  <text id="_2" data-name="2" transform="translate(0 6)" fill="#8f9bb9" font-size="3" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  <text id="_3" data-name="3" transform="translate(0 10)" fill="#8f9bb9" font-size="3" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+</svg>

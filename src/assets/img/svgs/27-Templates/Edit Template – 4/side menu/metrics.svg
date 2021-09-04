@@ -1,0 +1,7 @@
+<svg id="metrics" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Path_25" data-name="Path 25" d="M0,0H20V20H0Z" fill="none"/>
+  <g id="line-chart" transform="translate(-1.314 -1.314)">
+    <path id="Path_33" data-name="Path 33" d="M3,3V19.628H19.628" transform="translate(0 0)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    <path id="Path_34" data-name="Path 34" d="M17.808,8,13.1,12.8,10.51,10.309,7,13.82" transform="translate(-0.305 -0.381)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+  </g>
+</svg>

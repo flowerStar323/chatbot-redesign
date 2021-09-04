@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.563" height="15.2" viewBox="0 0 14.563 15.2">
+  <g id="end_conversation" data-name="end conversation" transform="translate(-0.4 -0.4)">
+    <g id="Group_1182" data-name="Group 1182" transform="translate(1 1)">
+      <g id="Group_1181" data-name="Group 1181">
+        <g id="Group_1180" data-name="Group 1180">
+          <path id="Path_510" data-name="Path 510" d="M5.091,12.636H9.054a1.127,1.127,0,0,0,1.128-1.128V6.128A1.127,1.127,0,0,0,9.054,5H1.128A1.127,1.127,0,0,0,0,6.128v5.381a1.127,1.127,0,0,0,1.128,1.128h.781v3.182l3.182-3.182Z" transform="translate(0 -1.818)" fill="none" stroke="#bac2c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" fill-rule="evenodd"/>
+          <path id="Path_511" data-name="Path 511" d="M14.054,0H6.127A1.127,1.127,0,0,0,5,1.128V3.182h5.872A1.127,1.127,0,0,1,12,4.309V7.636h2.054a1.127,1.127,0,0,0,1.128-1.128V1.128A1.127,1.127,0,0,0,14.054,0Z" transform="translate(-1.818)" fill="none" stroke="#bac2c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" fill-rule="evenodd"/>
+          <path id="Path_512" data-name="Path 512" d="M4,9H7.182" transform="translate(-1.455 -3.273)" fill="none" stroke="#bac2c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" fill-rule="evenodd"/>
+          <path id="Path_513" data-name="Path 513" d="M4,13H9.091" transform="translate(-1.455 -4.727)" fill="none" stroke="#bac2c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9db00"/>
+      <stop offset="1" stop-color="#fcb900"/>
+    </linearGradient>
+  </defs>
+  <g id="yellow-chat-icon" transform="translate(9782 7435)">
+    <path id="Rectangle_536" data-name="Rectangle 536" d="M19,0H40A19,19,0,0,1,59,19V59a0,0,0,0,1,0,0H19A19,19,0,0,1,0,40V19A19,19,0,0,1,19,0Z" transform="translate(-9782 -7435)" fill="url(#linear-gradient)"/>
+    <g id="Group_1922" data-name="Group 1922" transform="translate(1 1)">
+      <path id="Path_5382" data-name="Path 5382" d="M16.5,0A16.5,16.5,0,0,1,33,16.5a16.712,16.712,0,0,1-2.214,8.262c-.63,1.137,3,8.959,3,8.959S26.5,29.7,25.317,30.475A16.51,16.51,0,1,1,16.5,0Z" transform="translate(-9770 -7423)" fill="#fff"/>
+      <g id="Group_1921" data-name="Group 1921">
+        <circle id="Ellipse_171" data-name="Ellipse 171" cx="2.5" cy="2.5" r="2.5" transform="translate(-9761 -7409)" fill="#f9db00"/>
+        <circle id="Ellipse_172" data-name="Ellipse 172" cx="2.5" cy="2.5" r="2.5" transform="translate(-9751 -7409)" fill="#f9db00"/>
+      </g>
+    </g>
+  </g>
+</svg>

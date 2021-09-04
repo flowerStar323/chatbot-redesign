@@ -1,0 +1,9 @@
+<svg id="agents" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Path_25" data-name="Path 25" d="M0,0H20V20H0Z" fill="none"/>
+  <g id="Icon_feather-users" data-name="Icon feather-users" transform="translate(-0.495 -1.5)">
+    <path id="Path_549" data-name="Path 549" d="M14.042,27.2V25.635A3.135,3.135,0,0,0,10.906,22.5H4.635A3.135,3.135,0,0,0,1.5,25.635V27.2" transform="translate(0 -8.594)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    <path id="Path_550" data-name="Path 550" d="M13.771,7.635A3.135,3.135,0,1,1,10.635,4.5,3.135,3.135,0,0,1,13.771,7.635Z" transform="translate(-2.865)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    <path id="Path_551" data-name="Path 551" d="M32.352,27.3V25.729A3.135,3.135,0,0,0,30,22.7" transform="translate(-13.607 -8.687)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    <path id="Path_552" data-name="Path 552" d="M24,4.7a3.135,3.135,0,0,1,0,6.075" transform="translate(-10.742 -0.093)" fill="none" stroke="#202945" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+  </g>
+</svg>
